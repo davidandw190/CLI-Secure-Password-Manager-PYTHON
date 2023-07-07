@@ -1,1 +1,1 @@
-# CLI Secure Password Manager - PYTHON
+# Secure CLI Password Manager - PYTHON
